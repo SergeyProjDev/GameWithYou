@@ -1,0 +1,9 @@
+D:\Projects\C#\GameWithYou\GameWithYou\bin\Debug\GameWithYou.exe.config
+D:\Projects\C#\GameWithYou\GameWithYou\bin\Debug\GameWithYou.exe
+D:\Projects\C#\GameWithYou\GameWithYou\bin\Debug\GameWithYou.pdb
+D:\Projects\C#\GameWithYou\GameWithYou\obj\Debug\Interop.MediaPlayer.dll
+D:\Projects\C#\GameWithYou\GameWithYou\obj\Debug\Interop.WMPNSSCI.dll
+D:\Projects\C#\GameWithYou\GameWithYou\obj\Debug\GameWithYou.csproj.ResolveComReference.cache
+D:\Projects\C#\GameWithYou\GameWithYou\obj\Debug\GameWithYou.csproj.CoreCompileInputs.cache
+D:\Projects\C#\GameWithYou\GameWithYou\obj\Debug\GameWithYou.exe
+D:\Projects\C#\GameWithYou\GameWithYou\obj\Debug\GameWithYou.pdb
